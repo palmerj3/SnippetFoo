@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "JavaScript Snippets",
+  "version": "0.1",
+  "description": "Allows you to maintain a database of snippets optimized for frequent use and assign keyboard shortcuts",
+
+  "devtools_page": "html/devtools.html",
+  "options_page": "html/panel.html",
+
+  "minimum_chrome_version": "20.0.1132.57",
+  
+  "permissions": [
+    "storage"
+  ]
+}
